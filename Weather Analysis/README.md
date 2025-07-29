@@ -3,7 +3,6 @@
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)  
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)  
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 ---
 
@@ -48,7 +47,6 @@ It delivers **temperature trends, air quality data, humidity, precipitation chan
 ## 📂 Project Files
 
 - `Weather_Dashboard.pbix` → Power BI project file  
-- `Dataset.csv` or API connection details  
 - `Screenshot (224).png` → Dashboard image preview  
 
 ---
@@ -58,12 +56,6 @@ It delivers **temperature trends, air quality data, humidity, precipitation chan
 - **AQI is Good (16)** in Bengaluru – clean and healthy air.  
 - **84%–89% rain probability** across the week, indicating frequent rainfall.  
 - Gradual **temperature drop** towards the weekend.  
-
----
-
-## 📹 Live Demo
-
-🔗 [Watch the Demo on YouTube](https://www.youtube.com/watch?v=P8HB8dMfKNc&list=PLVOfSd1Syc0Fl3XazJ82MoAZiPui6WgvD&index=12)  
 
 ---
 
@@ -85,6 +77,3 @@ Contributions are welcome! You can:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – free to use, modify, and distribute.  
