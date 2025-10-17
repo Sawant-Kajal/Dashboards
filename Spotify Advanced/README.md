@@ -81,7 +81,7 @@ The project uncovers insights on popularity trends, album types, durations, and 
 ## 👩‍💻 Author
 **Kajal**  
 📫 *Data Analyst | Power BI | Python | SQL | Machine Learning*  
-🔗 [LinkedIn](#) · [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/s-kajal/) · [GitHub](https://github.com/Sawant-Kajal)
 
 ---
 
