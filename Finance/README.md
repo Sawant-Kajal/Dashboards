@@ -41,7 +41,7 @@ To build a dashboard that visualizes financial trends (income, expenses, savings
 ```
 ├── finance_data.csv
 ├── Finance_Dashboard.twb
-├── Screenshot 2025-10-17 152026.png
+├── Screenshot.png
 └── README.md
 ```
 
