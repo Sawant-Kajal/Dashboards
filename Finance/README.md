@@ -38,7 +38,7 @@ To build a dashboard that visualizes financial trends (income, expenses, savings
 ---
 
 ## 📂 Project Structure
-.
+
 ├── finance_data.csv
 ├── Finance_Dashboard.twb
 ├── Screenshot 2025-10-17 152026.png
@@ -93,7 +93,7 @@ To build a dashboard that visualizes financial trends (income, expenses, savings
 
 ## 👤 Author
 **Kajal**  
-🔗 [LinkedIn](https://www.linkedin.com/in/s-kajal/) · [Gmail](kajalsawant077@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/s-kajal/) · [Gmail](mailto:kajalsawant077@gmail.com)
 
 ---
 
